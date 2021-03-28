@@ -6,3 +6,5 @@ Hey, I'm Kopplin! 👋
 Find me elsewhere 🌎
 - 📸 [Instagram](https://www.instagram.com/koppliin)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kopplin)
+
+![](https://raw.githubusercontent.com/sergiokopplin/kopplin/main/kopplin.gif)
