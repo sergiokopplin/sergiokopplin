@@ -4,6 +4,7 @@ Hey, I'm Kopplin! 👋
 - 🇧🇷 Living in São Paulo, SP
 
 Find me elsewhere 🌎
+- 👨🏽 [Site & Blog](https://koppl.in/)
 - 📸 [Instagram](https://www.instagram.com/koppliin)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kopplin)
 
