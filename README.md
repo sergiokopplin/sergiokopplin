@@ -1,4 +1,4 @@
 Hey, I'm Kopplin! 👋
 
-- 🤓 Frontend DEV at @loft-br
+- 🤓 Frontend DEV at @alphasights
 - 🇧🇷 Living in São Paulo, SP
